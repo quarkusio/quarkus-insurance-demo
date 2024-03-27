@@ -44,13 +44,13 @@ export class TicClaims extends LitElement {
     
         .claimHeading {
             display: flex;
-            width: 90%;
+            width: 85%;
             justify-content: space-between;
             align-items: center;
         }
     
         .claimSummary {
-            background: var(--lumo-contrast-70pct);
+            background: var(--lumo-tint-5pct);
             width: 85%;
         }
     
